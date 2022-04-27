@@ -1,0 +1,37 @@
+{
+    "id": "b0364a3f-a84f-4673-bee5-cda919fb1565",
+    "author": "",
+    "widgets": [
+        {
+            "id": "MobileUI",
+            "name": "MobileUI",
+            "description": "A sample widget",
+            "icon": "",
+            "tags":[]
+        }
+    ],
+    "sidebarLinks": [
+        {
+            "id": "MobileUILink",
+            "label": "",
+            "description": "",
+            "target": "",
+            "icon": "",
+            "roles":[]
+        }
+    ],
+    "uis": [
+        {
+            "id": "MobileUILink",
+            "label":"",
+            "description": "",
+            "roles": []
+        }
+    ],
+    "menuItems": [
+        {
+            "id": "MobileUILink",
+            "title": "MobileUI"
+        }
+    ]
+}

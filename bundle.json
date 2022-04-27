@@ -1,0 +1,13 @@
+{
+    "id": "dcbf47ad-6bb6-45f7-89e5-3e5cfe5da1a1",
+    "author": "eutech",
+    "widgets": [],
+    "sidebarLinks": [],
+    "uis": [
+        {
+            "id": "mobile-ui",
+            "label":"Visitor Registration"
+        }
+    ],
+    "menuItems": []
+}
