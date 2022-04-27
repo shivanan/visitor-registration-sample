@@ -1,6 +1,6 @@
 # Sample Visitor Registration Screen
 
-## Usage
+## Dev
 
 ```
 npm install
