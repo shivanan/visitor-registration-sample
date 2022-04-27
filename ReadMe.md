@@ -1,6 +1,14 @@
-# How run the web UI in development mode
+# Sample Visitor Registration Screen
 
-1. Run `npm install`
-2. Run `npm run dev` this will run the dev server 
-3. Go to `https://localhost://<port (default is 8080)>?id=<id of the ui>`
-   
+## Usage
+
+```
+npm install
+npm run dev
+```
+
+## Uploading to Lucy
+
+```
+npx lucy-xp upload ./dist/main.js ./bundle.json --lucy-url https://lucy.iviva.com --lucy-apikey "<lucy api key>"
+```
